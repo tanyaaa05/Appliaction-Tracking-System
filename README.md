@@ -59,11 +59,9 @@ git clone https://github.com/your-username/ats-job-posting.git
 
 ## 📸 Preview
 
-![](![Screenshot 2025-04-30 183618](https://github.com/user-attachments/assets/bcf08ee3-1aec-4ac7-8435-98c494a12192)
-)
-![](![Screenshot 2025-04-30 183618](![Screenshot 2025-04-30 183645](https://github.com/user-attachments/assets/1a698a1b-ebd9-4b07-8085-356a673932b2)
-)
-)
+![Light Mode Preview](https://github.com/user-attachments/assets/bcf08ee3-1aec-4ac7-8435-98c494a12192)
+
+![Dark Mode Preview](https://github.com/user-attachments/assets/1a698a1b-ebd9-4b07-8085-356a673932b2)
 
 ---
 
