@@ -46,3 +46,29 @@ An interactive and responsive Applicant Tracking System (ATS) design prototype b
 
 ```bash
 git clone https://github.com/your-username/ats-job-posting.git
+```
+2. Open index.html in your browser.
+
+3. Toggle theme 🌞/🌜
+
+4. Fill out the job form.
+
+5. Click “Preview Job Post” to see the live preview.
+
+---
+
+## 📸 Preview
+
+![Screenshot Light Mode](preview-light.png)  
+![Screenshot Dark Mode](preview-dark.png)
+
+---
+
+## 🙋‍♀️ Author
+
+**Tanya** – *Frontend Enthusiast & Creative Designer*  
+🔗 [Portfolio](https://portfolio-tanya-singh-projects.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/tanya06395/) • [GitHub](https://github.com/tanyaaa05)
+
+---
+
+> Designed with 💙 to balance recruiter goals and candidate clarity.
